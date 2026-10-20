@@ -1,0 +1,7 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Files Python creates automatically
+__pycache__/
+*.pyc
